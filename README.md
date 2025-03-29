@@ -25,9 +25,12 @@ npm or yarn
 ## Installation
 
 1. Clone the repository:
+   
    git clone https://github.com/your-repo/reqres-user-management.git
    cd reqres-user-management
-2. Install dependencies:
+   
+3. Install dependencies:
+4. 
    npm install
    # or
    yarn install
@@ -35,10 +38,13 @@ npm or yarn
 ## Running the Application
 
 1. Start the development server:
+   
    npm start
    # or
    yarn start
-2. Open your browser and navigate to:
+   
+3. Open your browser and navigate to:
+   
    http://localhost:3000
 
 
