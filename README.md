@@ -30,7 +30,7 @@ npm or yarn
    cd reqres-user-management
    
 3. Install dependencies:
-4. 
+   
    npm install
    # or
    yarn install
